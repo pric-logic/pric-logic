@@ -3,7 +3,7 @@
 
 I am glad to have you on my github profile😊
 
-#here are some information about me:
+**here is some information about me:**
 I'm a curious and motivated developer who loves learning and building things that make sense. I enjoy working with code that solves real problems, and I'm always exploring new technologies — especially in AI and software development.
 
 ---
